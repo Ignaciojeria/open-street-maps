@@ -27,7 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/leaflet/dist/leaflet.scss",
+              "node_modules/esri-leaflet-geocoder/dist/esri-leaflet-geocoder.scss",
+              "node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.scss"
             ],
             "scripts": []
           },
